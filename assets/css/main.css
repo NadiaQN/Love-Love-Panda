@@ -1,0 +1,61 @@
+body{
+  margin: 0 auto;
+  background-color: #F78E69;
+  color: white;
+}
+header{
+  margin: 2%;
+  text-align: right;
+}
+.image1{
+  background-image: url(../img/uno.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 37em;
+}
+section{
+  text-align: center;
+}
+.container-about{
+    background-color: #ABE188;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.content-about{
+  background-color: #F78E69;
+  width: 30%;
+  margin: 2%;
+  margin-left: 35%;
+}
+.image2{
+  background-image: url(../img/dos.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 37em;
+  margin-bottom: 1%;
+}
+.container-pictures{
+  background-color: #ABE188;
+}
+.container-pictures h2{
+  font-size: 3em;
+  margin: 3%;
+}
+.container-pictures img{
+  border: 10px solid white;
+  margin-bottom: 20%;
+}
+.container-pictures img:first-child{
+  margin-left: 130%;
+}
+.image3{
+  background-image: url(../img/tres.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 37em;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.under-page{
+  text-align: right;
+}
